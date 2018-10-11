@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Notepad++", "notepadPlus.vcxproj", "{FCF60E65-1B78-4D1D-AB59-4FC00AC8C248}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SciLexer", "..\..\scintilla\vcbuild\SciLexer.vcxproj", "{5ADA1676-8730-44F2-2AC7-E970C7E57C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF60E65-1B78-4D1D-AB59-4FC00AC8C248}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FCF60E65-1B78-4D1D-AB59-4FC00AC8C248}.Debug|Win32.Build.0 = Debug|Win32
+		{FCF60E65-1B78-4D1D-AB59-4FC00AC8C248}.Release|Win32.ActiveCfg = Release|Win32
+		{FCF60E65-1B78-4D1D-AB59-4FC00AC8C248}.Release|Win32.Build.0 = Release|Win32
+		{5ADA1676-8730-44F2-2AC7-E970C7E57C80}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5ADA1676-8730-44F2-2AC7-E970C7E57C80}.Debug|Win32.Build.0 = Debug|Win32
+		{5ADA1676-8730-44F2-2AC7-E970C7E57C80}.Release|Win32.ActiveCfg = Release|Win32
+		{5ADA1676-8730-44F2-2AC7-E970C7E57C80}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
